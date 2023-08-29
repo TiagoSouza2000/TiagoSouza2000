@@ -4,4 +4,4 @@
 
 ![Status](https://github-readme-stats.vercel.app/api?username=TiagoSouza2000&theme=dracula)
 
-![Py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+[![Py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
