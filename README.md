@@ -5,4 +5,4 @@
 
 
 
-[![Status](https://github-readme-stats.vercel.app/api?username=TiagoSouza2000&theme=dracula)] 
+![Status](https://github-readme-stats.vercel.app/api?username=TiagoSouza2000&theme=dracula)
